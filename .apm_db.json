@@ -1,0 +1,10 @@
+{
+  "packages": [
+    {
+      "name": "listdir",
+      "version": "1.0.0",
+      "files": ["/home/kaeden/bin/listdir"],
+      "installed_at": "2026-04-25"
+    }
+  ]
+}
