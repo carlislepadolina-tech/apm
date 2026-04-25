@@ -31,3 +31,5 @@ mv apm/target/release/apm /bin
 # OR
 mv apm/target/release/apm /usr/bin
 ```
+## Showcase
+[Screencast_20260425_222240.webm](https://github.com/user-attachments/assets/f4ae7674-69f2-406b-b3f2-6aa886231737)
