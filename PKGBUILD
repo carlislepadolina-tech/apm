@@ -10,7 +10,7 @@ depends=('git' 'base-devel')
 makedepends=('rust' 'cargo')
 provides=('apm')
 conflicts=('apm')
-source=("git+https://github.com/carlislepadolina-tech/apm.git")
+source=("git+https://github.com/carlislepadolina-tech/apm.git#branch=main")
 sha256sums=('SKIP')
 
 build() {
